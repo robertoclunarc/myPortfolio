@@ -21,56 +21,43 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Team Leader of BookXchanger Project"
-              date="January 2021 - May 2021"
+              title="Application development coordinator"
+              date="November 2015 - Now"
               content={[
-                "Manages all the major task like collecting the resources and ideas to the documentation part of the Project. And worked with team members to improve the features of website.",
-                "Worked on different features of website and mostly the frontend part of BookXchanger website.",
+                "Coordinate and develop projects to update the applications and platforms of the technology department of the state company MATESI/BRIQVEN.",
               ]}
             />
-            <h3 className="resume-title">Extracurricular Activities</h3>
+            
             <Resumecontent
-              title="Digital Marketing Executive [Technovanza-2020]"
+              title="Web systems development"
+              date="February 2023 - March 2024"
               content={[
-                "Planning, monitoring, and managing the organization presence on social media",
+                "Develop web applications remotely using Azure and AWS services as well as Nodejs and React for the company MERCADEO RACIONAL.",
               ]}
             />
             <Resumecontent
-              title="Public Relation Executive [Technovanza-2020]"
+              title="Software development"
+              date="Octuber 2015 - November 2015"
               content={[
-                "Work with the PR Manager to create, manage, execute and evaluate all Guest Lectures at Technovanza.",
+                "Develop service modules for the vehicle insurance system of the company SEGUROS CARONI.",
+              ]}
+            />
+            <Resumecontent
+              title="Software development"
+              date="November 2008 - November 2009"
+              content={[
+                "development of a web application for the maintenance unit of the state company ORINOCO IRON",
               ]}
             />
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="B.Tech in Information Technology [VJTI, Mumbai] "
-              date="2019 - Present"
-              content={[`CGPA: 8.13 (Till 4th Sem)`]}
-            />
-            <Resumecontent
-              title="12th BOARD [Dr. Babasaheb Ambedkar College, Nagpur]"
-              date="2017 - 2019"
-              content={["Precentage: 74.8%"]}
-            />
-            <Resumecontent
-              title="10th BOARD [Agragami Highschool, Wardha] "
-              date="2007 - 2017"
-              content={["Precentage: 96.4%"]}
-            />
-            <h3 className="resume-title">Ranks and Achivements</h3>
-            <Resumecontent
-              title=""
-              content={[
-                "Higgest rating on Codechef 1627",
-                "Completed 30 days of Google Cloud Program",
-                "Udacity and AWS ML Scholarship Recipient",
-                "Event Manager of Culturul Fest(Pratibimb)",
-                "Participant in DSC-WOW Hackathon 2020",
-                "Student Volunteer at ISRO, IMD, LIGO and BARC exhibition",
-              ]}
-            />
+              title="Informatics Engineer"
+              date="November 2008"
+              content={[`average of 7.5`]}
+            />            
+           
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>

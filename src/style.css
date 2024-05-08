@@ -94,7 +94,7 @@ html {
 .navbar {
   position: fixed !important;
   transition: all 0.3s ease-out 0s !important;
-  padding: 0.3rem 2rem !important;
+  padding: 0.2rem 2rem !important;
   font-size: 1.2rem !important;
 }
 
@@ -166,8 +166,8 @@ html {
 }
 
 .logo {
-  height: 5em !important;
-  width: 9em !important;
+  height: 6em !important;
+  width:6em !important;
 }
 
 .navbar-nav .nav-link {
@@ -185,8 +185,8 @@ html {
     padding: 0.7rem 1rem !important;
   }
   .logo {
-    height: 3em !important;
-    width: 4em !important;
+    height: 6em !important;
+    width: 6em !important;
   }
 }
 
