@@ -1,12 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/rotation.gif";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
-  AiFillFacebook,
 } from "react-icons/ai";
 import Particle from "../Particle";
 import { FaLinkedinIn } from "react-icons/fa";

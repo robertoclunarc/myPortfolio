@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website
+  My Portfolio Website
 </h2>
 <div align="center">
   <img alt="Demo" src="./images/readme-img.png"  />
@@ -7,7 +7,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://sagarmude.netlify.app" target="_blank">ֆaɢaʀ | Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://myportfoliorlunar.com" target="_blank">rlunar | Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
