@@ -4,8 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import unichat from "../../Assets/Projects/Unichat.jpg";
-import bookxchanger from "../../Assets/Projects/bookxchanger.JPG";
-import igt from "../../Assets/Projects/igt.JPG";
+import desbloqueamicell from "../../Assets/Projects/desbloqueamicell.png";
+import mcoc from "../../Assets/Projects/marvel.png";
 import youtube from "../../Assets/Projects/youtube.jpg";
 import mysuru from "../../Assets/Projects/mysuru.JPG";
 import pollution from "../../Assets/Projects/pollution.png";
@@ -24,19 +24,19 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bookxchanger}
-              title="BookXchanger"
-              description="We try to create a platform where you can buy or sell second-hand books without any difficulty. So we try to create a website called BookXchanger with almost all the features that can solve your problems while buying or selling books. We have used MERN stack to make this project."
-              link="https://github.com/sagarmude7/bookxchanger"
+              imgPath={desbloqueamicell}
+              title="Desbloqueamicell"
+              description="This is an application so that the user can connect to unlock their purchased cell phone which is locked by the factory for the area where the phone will operate."
+              link="https://github.com/robertoclunarc/desbloqueo-frontend-react"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={igt}
-              title="Agriculture Analysis of India"
-              description="I have created this project for the final submission of IGT. So basically this is a website which uses different data like crop, rainfall, soil and underground water in India. We have use QGIS software to map tha data on map. And then using HTML, CSS and Javascript we mapped it on website. So using this website we try to make analysis of crops in India."
-              link="https://github.com/sagarmude7/IGT_Project_Agriculture_India"
+              imgPath={mcoc}
+              title="Marvel Contest of Champion Info Warriors"
+              description="This is an application that serves as information for players of the game Marvel Contest of Champion by Kabam which shows players the immunities and other abilities of each fighter."
+              link="https://github.com/robertoclunarc/marvel_contest_of_champions"
             />
           </Col>
 
