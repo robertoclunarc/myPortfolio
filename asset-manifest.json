@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.5ca6809c.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.6d368cf7.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.6d368cf7.chunk.js.map",
+    "runtime-main.js": "/myPortfolio/static/js/runtime-main.f69c303d.js",
+    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.f69c303d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/myPortfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.76600aec.chunk.js": "/myPortfolio/static/js/2.76600aec.chunk.js",
+    "static/js/2.76600aec.chunk.js.map": "/myPortfolio/static/js/2.76600aec.chunk.js.map",
+    "static/js/3.195c6ccd.chunk.js": "/myPortfolio/static/js/3.195c6ccd.chunk.js",
+    "static/js/3.195c6ccd.chunk.js.map": "/myPortfolio/static/js/3.195c6ccd.chunk.js.map",
+    "index.html": "/myPortfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/myPortfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5ca6809c.chunk.css.map": "/myPortfolio/static/css/main.5ca6809c.chunk.css.map",
+    "static/js/2.76600aec.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.76600aec.chunk.js.LICENSE.txt",
+    "static/media/Resume.df9138aa.pdf": "/myPortfolio/static/media/Resume.df9138aa.pdf",
+    "static/media/Unichat.045d236e.jpg": "/myPortfolio/static/media/Unichat.045d236e.jpg",
+    "static/media/about.5e4e5236.svg": "/myPortfolio/static/media/about.5e4e5236.svg",
+    "static/media/desbloqueamicell.a0ddca2c.png": "/myPortfolio/static/media/desbloqueamicell.a0ddca2c.png",
+    "static/media/home-main.fda15d49.png": "/myPortfolio/static/media/home-main.fda15d49.png",
+    "static/media/logo.6bc3beae.png": "/myPortfolio/static/media/logo.6bc3beae.png",
+    "static/media/marvel.09965212.png": "/myPortfolio/static/media/marvel.09965212.png",
+    "static/media/mysuru.759922b6.JPG": "/myPortfolio/static/media/mysuru.759922b6.JPG",
+    "static/media/pollution.6083ae46.png": "/myPortfolio/static/media/pollution.6083ae46.png",
+    "static/media/style.css": "/myPortfolio/static/media/pre.29913706.svg",
+    "static/media/rotation.33d85967.gif": "/myPortfolio/static/media/rotation.33d85967.gif",
+    "static/media/youtube.81aa21a9.jpg": "/myPortfolio/static/media/youtube.81aa21a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f69c303d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.76600aec.chunk.js",
+    "static/css/main.5ca6809c.chunk.css",
+    "static/js/main.6d368cf7.chunk.js"
+  ]
+}
