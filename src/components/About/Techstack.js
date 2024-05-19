@@ -11,14 +11,14 @@ import {
 import { FaCss3Alt } from "react-icons/fa";
 import {
   SiRedux,
-  SiMaterialUi,
+  SiMaterialdesignicons,
   SiMariadb,
   SiCplusplus,
   SiJavascript,
   SiPostgresql,
   SiMysql,
   SiOracle,
-  SiPhp, SiTypescript, SiAngular, SiNextDotJs,
+  SiPhp, SiTypescript, SiAngular, SiNextdotjs,
   SiGraphql,
 } from "react-icons/si";
 
@@ -69,7 +69,7 @@ function Techstack() {
           <DiBootstrap />
         </Col>
         <Col title="MaterialUi" xs={4} md={2} className="tech-icons">
-          <SiMaterialUi />
+          <SiMaterialdesignicons />
         </Col>
         <Col title="NodeJS" xs={4} md={2} className="tech-icons">
           <DiNodejs />
@@ -94,7 +94,7 @@ function Techstack() {
           <SiAngular />
         </Col>
         <Col title="NextJs" xs={4} md={2} className="tech-icons">
-          <SiNextDotJs />
+          <SiNextdotjs />
         </Col>
         <Col title="Graphql" xs={4} md={2} className="tech-icons">
           <SiGraphql />

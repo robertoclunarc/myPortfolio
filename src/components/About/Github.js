@@ -17,16 +17,15 @@ function Github() {
       <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
         Days I <strong className="purple">Code</strong>
       </h1>
-      {/*<GitHubCalendar
+      <GitHubCalendar
         username="robertoclunarc"
         blockSize={15}
         blockMargin={5}
         theme={colourTheme}
         fontSize={16}
-  />*/}
-      <GitHubCalendar username="robertoclunarc" />
+      />
+      {/*<GitHubCalendar username="robertoclunarc" />*/}
     </Row>
   );
 }
-
 export default Github;
