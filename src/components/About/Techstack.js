@@ -18,7 +18,7 @@ import {
   SiPostgresql,
   SiMysql,
   SiOracle,
-  SiPhp, SiTypescript, SiAngular, SiNextdotjs,
+  SiPhp, SiTypescript, SiAngular, SiNextDotJs,
   SiGraphql,
 } from "react-icons/si";
 
@@ -94,7 +94,7 @@ function Techstack() {
           <SiAngular />
         </Col>
         <Col title="NextJs" xs={4} md={2} className="tech-icons">
-          <SiNextdotjs />
+          <SiNextDotJs />
         </Col>
         <Col title="Graphql" xs={4} md={2} className="tech-icons">
           <SiGraphql />
