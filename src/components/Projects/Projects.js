@@ -7,7 +7,7 @@ import Particle from "../Particle";
 import desbloqueamicell from "../../Assets/Projects/desbloqueamicell.png";
 import mcoc from "../../Assets/Projects/marvel.png";
 import sisca from "../../Assets/Projects/sisca.png";
-import sisSalud from "../../Assets/Projects/sissalud";
+import sisSalud from "../../Assets/Projects/sigesai.png";
 //import pollution from "../../Assets/Projects/pollution.png";
 
 function Projects() {
