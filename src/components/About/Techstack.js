@@ -18,6 +18,7 @@ import {
   SiPostgresql,
   SiMysql,
   SiOracle,
+  SiPython,
   SiPhp, SiTypescript, SiAngular, SiNextDotJs,
   SiGraphql,
 } from "react-icons/si";
@@ -58,6 +59,9 @@ function Techstack() {
         </Col>
         <Col title="JavaScript" xs={4} md={2} className="tech-icons">
           <SiJavascript />
+        </Col>
+        <Col title="Python" xs={4} md={2} className="tech-icons">
+          <SiPython />
         </Col>
         <Col title="REACT" xs={4} md={2} className="tech-icons">
           <DiReact />
